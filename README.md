@@ -1,5 +1,5 @@
-##   Hi, I'm *Thiago Prates*
+## :wave:  Hi, my name is *Thiago Prates*
 
-**Computer Engineer** with _over 10 years of experience in Systems Analysis and Development_ in several programming languages and platforms. Currently, I work as **Full Stack Web Developer using Laravel (PHP) & Vue.js**.
+I'm **Computer Engineer** with _over 10 years of experience in Systems Analysis and Development_ in several programming languages and platforms. 
 
-Currently, working as `PHP/Laravel Developer` at [Netshow.me](https://netshow.me/).
+Nowadays, I work as _**Full Stack Web Developer using Laravel (PHP) & Vue.js**_ at [Jalasoft](https://jalasoft.com/).
