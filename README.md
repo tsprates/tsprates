@@ -1,4 +1,4 @@
-## :wave:  Hi, my name is *Thiago Prates*
+## Hi, my name is *Thiago Prates*
 
 I'm **Computer Engineer** with _over 10 years of experience in Systems Analysis and Development_ in several programming languages and platforms. 
 
