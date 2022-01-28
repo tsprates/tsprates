@@ -12,4 +12,6 @@ Currently, I work as _**Full Stack Web Developer** using Laravel (PHP) & Vue.js_
 ![Laravel](https://img.shields.io/badge/Laravel-474B4F?style=for-the-badge&logo=laravel&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-474B4F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-474B4F?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-474B4F?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-474B4F?style=for-the-badge&logo=bootstrap&logoColor=white)
+
