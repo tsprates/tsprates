@@ -1,6 +1,6 @@
-## Hi, my name is *Thiago Prates*
+# *Thiago Prates*
 
-I'm _**Computer Engineer**_ with _over 10 years of experience in Web Development and Systems Analysis_.
+_**Computer Engineer**_ with _over 10 years of experience in Web Development and Systems Analysis_.
 
 Currently, I work as _**Full Stack Web Developer** using Laravel (PHP) & Vue.js_.
 
