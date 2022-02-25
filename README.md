@@ -3,7 +3,7 @@
 
 _**Computer Engineer**_ with _over 10 years of experience in Web Development and Systems Analysis_.
 
-Currently, I work as _**Full Stack Web Developer** using Laravel (PHP) & Vue.js_.
+Currently, I work as _**Full Stack Web Developer** using mainly Laravel (PHP) & Vue.js_.
 
  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
