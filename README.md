@@ -5,11 +5,13 @@
 
 Currently working mainly as _**Full Stack Laravel (PHP) & Vue.js Developer**_.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&style=flat&logoColor=ccc)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&style=flat&logoColor=white)
+![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)
+![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&style=flat&logoColor=white)
