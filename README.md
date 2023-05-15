@@ -1,6 +1,5 @@
 # *Thiago Prates*
 
-
 **Computer Engineer** with _over 10 years of experience_ in _Web Development and Systems Analysis_.
 
 Currently working mainly as _**Full Stack Laravel & Vue.js Developer**_.
