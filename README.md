@@ -1,8 +1,8 @@
 # *Thiago Prates*
 
-**Computer Engineer** with _over 10 years of experience_ in _Web Development and Systems Analysis_.
+_**Computer Engineer**_ with _over 10 years of experience_ in _Web Development and Systems Analysis_.
 
-Currently working mainly as _**Senior PHP Engineer | Software Developer**_.
+Currently working mainly as **Software Engineer | Senior PHP Engineer**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white)
