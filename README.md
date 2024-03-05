@@ -1,6 +1,6 @@
 # *Thiago Prates*
 
-Currently working as _**Full-Stack Engineer**_
+Currently working as _**Full Stack Engineer**_
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=HTML5&style=flat&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=CSS3&style=flat&logoColor=white)
