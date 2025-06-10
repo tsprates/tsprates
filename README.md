@@ -1,3 +1,3 @@
 # *Thiago Prates*
 
-Currently working as _**Full Stack Engineer**_
+_**Full Stack Engineer**_
